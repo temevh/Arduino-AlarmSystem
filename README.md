@@ -3,7 +3,7 @@ Elektroniikan perusteet 2 course project.
 If you have any questions about the project, feel free to message me.
 
 
-Used parts
+Used parts:
 
 
 Elegoo Uno R3  1 
@@ -26,6 +26,6 @@ kaypad (4x4) 1
 
 cables about 28 
 
-(icecream box) 1 (you can make it fancyer) 
+(icecream box) 1 (you can make it fancier) 
 
 
