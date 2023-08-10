@@ -28,4 +28,6 @@ cables about 28
 
 (icecream box) 1 (you can make it fancier) 
 
+![3597afc5-f515-4837-924f-f67c8c097742](https://github.com/temevh/Arduino-AlarmSystem/assets/96690178/b7ab8e2d-f22a-4dca-803c-aca4170e6632)
+
 
